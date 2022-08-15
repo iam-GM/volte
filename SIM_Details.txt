@@ -1,0 +1,27 @@
+IMSI- 001010987654321
+MSISDN - 9876543211
+Key - 6874736969202073796d4b2079650a73
+OPC - 504f20634f6320504f50206363500a4f
+Identity - 001010987654321@ims.mnc001.mcc001.3gppnetwork.org
+Identity - sip:001010987654321@ims.mnc001.mcc001.3gppnetwork.org
+Public Identity - tel:9876543211
+Public Identity - sip:9876543211@ims.mnc001.mcc001.3gppnetwork.org
+
+IMSI- 001010123456789
+MSISDN - 1234567891
+Key - 6874736969202073796d4b2079651a73
+OPC - 504f20634f6320504f50206363501a4f
+Identity - 001010123456789@ims.mnc001.mcc001.3gppnetwork.org
+Identity - sip:001010123456789@ims.mnc001.mcc001.3gppnetwork.org
+Public Identity - tel:1234567891
+Public Identity - sip:1234567891@ims.mnc001.mcc001.3gppnetwork.org
+
+
+IMSI- 001010987651234
+MSISDN - 9876512341
+Key - 6874736969202073796d4b2079652a73
+OPC - 504f20634f6320504f50206363502a4f
+Identity - 001010987651234@ims.mnc001.mcc001.3gppnetwork.org
+Identity - sip:001010987651234@ims.mnc001.mcc001.3gppnetwork.org
+Public Identity - tel:9876512341
+Public Identity - sip:9876512341@ims.mnc001.mcc001.3gppnetwork.org
